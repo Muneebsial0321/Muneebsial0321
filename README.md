@@ -18,4 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🧠 Leet Code
+![LeetCode Stats](https://leetcard.jacoblin.cool/kpo5SCLytS?theme=dark&font=Alegreya%20Sans&ext=heatmap)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
